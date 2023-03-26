@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tushar Jagtap
-- 👀 I’m interested in Data Science,Data Analytics,Machine Learning and AI
+- 👀 I’m interested in Data Science,Data Analytics and Machine Learning
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 How to reach me tusharjagtap2903@gmail.com
 
